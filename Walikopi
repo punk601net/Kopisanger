@@ -1198,7 +1198,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
 
-#EXTINF:-1 group-title="TV HIBURAN" tvg-id="nsert.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Insert_logo.svg/revision/latest/scale-to-width-down/640",!nsert
+#EXTINF:-1 group-title="TV HIBURAN" tvg-id="nsert.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Insert_logo.svg/revision/latest/scale-to-width-down/640",Insert
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
