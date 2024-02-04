@@ -130,8 +130,10 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #################################
 
 #EXTINF:-1 group-title="Nasional" tvg-id="KompasTV.id" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png",Kompas TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://kister.net/mpl/yt2m3u8?w=@kompastv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 
 ###############################
