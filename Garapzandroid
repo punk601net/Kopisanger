@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="# IPTV PREMIUM 2024™ #", url-tvg="https://github.com/thefirefox12537/streams/blob/master/epg/guide.xml, https://epg.urfan.web.id"  refresh="3600"
+#EXTM3U billed-msg="# IPTV PREMIUM 2024™ #", url-tvg="https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/guide.xml.gz" refresh="3600"
 
 
 ##########################
