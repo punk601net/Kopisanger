@@ -207,10 +207,12 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
-#EXTINF:1 tvg-id="live.ch" tvg-logo="https://i.ibb.co/Ycm9h70/live-logo-group.png" group-title="# 🅻 🅸 🆅 🅴 #",Eleven 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey	
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
+#EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-logo="https://i.ibb.co/9ThW7QH/skysmainevent.png" group-title="# 🅻 🅸 🆅 🅴 #", Sky SPORTS MAIN EVENT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005fad32eb7fe7f488093e851d71c5f:6342118978914afbc5fec26e93168b64
+http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsmainevent)/manifest_720.mpd
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk" tvg-logo="https://i.ibb.co/RvhTrFd/skyspl.png" group-title="# 🅻 🅸 🆅 🅴 #", Sky SPORTS PL 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
