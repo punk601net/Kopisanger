@@ -146,6 +146,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 #EXTINF:-1 group-title="# EVENT LIGA 1 & 2 #" tvg-id="MNCSports4.id" tvg-url="___________" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/99/Logo_Terbaru_Liga_2_Indonesia.png/744px-Logo_Terbaru_Liga_2_Indonesia.png", LIGA 2 
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="# EVENT LIGA 1 & 2 #", INDOSIAR 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="# EVENT LIGA 1 & 2 #", INDOSIAR 2
+http://iptvtree.net:8080/c4596f70/c3848d92/162138
+
 =========================================================
 
 
