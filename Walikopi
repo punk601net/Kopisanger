@@ -404,7 +404,7 @@ https://kister.net/mpl/yt2m3u8?w=@kompastv
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="NET.id" tvg-logo="https://i.ibb.co/yR7yqLh/NET.png",NET HD
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="NET.id" tvg-logo="https://i.ibb.co/yR7yqLh/NET.png",NET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
