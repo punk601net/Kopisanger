@@ -146,7 +146,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 #EXTINF:-1 group-title="# EVENT LIGA 1 & 2 #" tvg-id="MNCSports4.id" tvg-url="___________" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/99/Logo_Terbaru_Liga_2_Indonesia.png/744px-Logo_Terbaru_Liga_2_Indonesia.png", LIGA 2 
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 group-title="# EVENT LIGA 1 & 2 #", tvg-logo="https://bingkaiwarta.co.id/wp-content/uploads/2021/09/logo-BRI-Liga-1_ff95_mid.jpg", LIVE PERSIRAJA VS BIAK
+#EXTINF:-1 group-title="# EVENT LIGA 1 & 2 #", tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/99/Logo_Terbaru_Liga_2_Indonesia.png/744px-Logo_Terbaru_Liga_2_Indonesia.png", LIVE PERSIRAJA VS BIAK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
