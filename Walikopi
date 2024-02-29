@@ -146,14 +146,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 #EXTINF:-1 group-title="# EVENT LIGA 1 & 2 #" tvg-id="MNCSports4.id" tvg-url="___________" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/99/Logo_Terbaru_Liga_2_Indonesia.png/744px-Logo_Terbaru_Liga_2_Indonesia.png", LIGA 2 
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 group-title="# EVENT LIGA 1 & 2 #", tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/99/Logo_Terbaru_Liga_2_Indonesia.png/744px-Logo_Terbaru_Liga_2_Indonesia.png", LIVE PERSIRAJA VS BIAK
+#EXTINF:-1 group-title="# EVENT LIGA 1 & 2 #", tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/99/Logo_Terbaru_Liga_2_Indonesia.png/744px-Logo_Terbaru_Liga_2_Indonesia.png", INDOSIAR 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=14792&type=drm
-https://srtv.my.id/vd/play.m3u8?id=14792&type=hls
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=14798&type=drm
+https://srtv.my.id/vd/play.m3u8?id=14798&type=hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="# EVENT LIGA 1 & 2 #", INDOSIAR 2
 http://iptvtree.net:8080/c4596f70/c3848d92/162138
