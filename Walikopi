@@ -10,9 +10,6 @@
 ```````` # PREMIER LEAGUE # ````````
 #EXTINF:-1 group-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg"
  
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" , LIVE FULL HD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/377339
- 
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="PREMIER LEAGUE", LIVE 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=2591&extension=m3u8
  
