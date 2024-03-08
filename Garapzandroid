@@ -190,7 +190,7 @@ https://ktpremium.com:443/K4221/7736/511328
 
 #EXTINF:-1 group-title="Anak" tvg-id="IndiKids.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg",IndiKids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
+http://37.49.225.197:8080/F31068/8fd17683/298539
 
 #EXTINF:-1 group-title="Anak" tvg-id="MyKidz.id" tvg-logo="https://i.ibb.co/r3ss43b/mykidz.png",My Kidz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -215,10 +215,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 #EXTINF:-1 group-title="Anak" tvg-id="BoomerangAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",Boomerang
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fS35p6p/cinemachikids.png" group-title="Anak", CINEMACHI KIDS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -227,28 +230,40 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43f
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #EXTINF:-1 group-title="Anak" tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://i.imgur.com/8VTfjI6.png",Cartoon Network
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 #EXTINF:-1 group-title="Anak" tvg-id="cartoon.fr" tvg-logo="https://i.imgur.com/p1Qvr0I.png",Cartoon TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
 
 #EXTINF:-1 group-title="Anak" tvg-id="cartoonclassics.fr" tvg-logo="https://i.imgur.com/I6B38ft.png",Cartoon TV Classics
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
+https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
 
 #EXTINF:-1 group-title="Anak" tvg-id="cartoonpremium.fr" tvg-logo="https://i.imgur.com/luJJbEL.png",Cartoon TV Premium
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
 #EXTINF:-1 group-title="Anak" tvg-id="cbeebiesasia.uk" tvg-logo="https://i.imgur.com/43JFpOk.png",CBeebies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -263,13 +278,21 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
 #EXTINF:-1 group-title="Anak" tvg-id="DaVinciAsia.de" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640",Da Vinci
-http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/03.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 
 #EXTINF:-1 group-title="Anak" tvg-id="duniaanak.id" tvg-logo="https://i.ibb.co/xXxyBrv/dunianak.png",Dunia Anak
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
 #EXTINF:-1 group-title="Anak" tvg-id="ebskids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/640px-EBS_KIDS.svg.png",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
@@ -278,7 +301,7 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
 
 #EXTINF:-1 group-title="Anak" tvg-id="horee.id" tvg-logo="https://i.ibb.co/w7tbfWD/horee.png",Hore
-http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
 
 #EXTINF:-1 group-title="Anak" tvg-id="kidstv.id" tvg-logo="https://i.ibb.co/r7D6K2k/kidstv.png",Kids TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
