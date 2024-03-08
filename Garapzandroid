@@ -283,8 +283,14 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://i.ibb.co/Kxp5QMG/funplanet.png" group-title="Anak" , FUN PLANET 🇮🇩
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
 
-#EXTINF:-1 group-title="Anak" tvg-id="horee.id" tvg-logo="https://i.ibb.co/w7tbfWD/horee.png",Hore
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
+#EXTINF:-1 group-title="Anak" tvg-id="horee.id" tvg-logo="https://i.ibb.co/w7tbfWD/horee.png",Horee
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6397&type=drm 
+https://srtv.my.id/vd/play.m3u8?id=6397&type=hls
 
 #EXTINF:-1 group-title="Anak" tvg-id="kidstv.id" tvg-logo="https://i.ibb.co/r7D6K2k/kidstv.png",Kids TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
