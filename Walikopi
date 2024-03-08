@@ -497,11 +497,11 @@ https://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra1
 #EXTINF:-1 group-title="# BRI LIGA 1 #", tvg-logo="https://i.pinimg.com/736x/9c/83/90/9c839018ed0d5df352e24a5c7cf853ab.jpg",LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=14798&type=drm
-https://srtv.my.id/vd/play.m3u8?id=14798&type=hls
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
+https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9c/83/90/9c839018ed0d5df352e24a5c7cf853ab.jpg" group-title="# BRI LIGA 1 #", LIVE 2
 http://iptvtree.net:8080/c4596f70/c3848d92/162138
@@ -1409,6 +1409,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/paramount/manifest.mpd
 =====================================================================
 ```````` 10. CHANNEL | LIFESTYLE DAN HIBURAN ````````
 #EXTINF:-1 group-logo="https://i.ibb.co/RyC0Q2J/Logo-TV-Group.png"
+
+#EXTINF:-1 group-title="10. CHANNEL | LIFESTYLE DAN HIBURAN" tvg-logo="https://thumbor.prod.vidiocdn.com/2Y97SNyJjIVnLM-XKkKyJOglFuU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8241/2d8b11.jpg", RANS Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=8241&type=hls
 
 #EXTINF:-1 group-title="10. CHANNEL | LIFESTYLE DAN HIBURAN" tvg-id="nadoo.kr" tvg-logo="https://iptv.urfan.web.id/logo/nadoo.png",Nadoo Korean
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
