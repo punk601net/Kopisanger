@@ -495,13 +495,7 @@ https://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra1
 #EXTINF:-1 group-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-all-sport.jpg"
 
 #EXTINF:-1 group-title="# BRI LIGA 1 #", tvg-logo="https://i.pinimg.com/736x/9c/83/90/9c839018ed0d5df352e24a5c7cf853ab.jpg",LIVE 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
-https://srtv.my.id/vd/play.m3u8?id=205&type=hls
+https://hometv.web.id/nvchome/hBK3vdFLmB/indosiar/
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9c/83/90/9c839018ed0d5df352e24a5c7cf853ab.jpg" group-title="# BRI LIGA 1 #", LIVE 2
 http://iptvtree.net:8080/c4596f70/c3848d92/162138
@@ -599,11 +593,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="https://i.ibb.co/RzpsZf7/INDOSIAR.png" group-title="1. CHANNEL | NASIONAL", INDOSIAR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=ff9e5fa8162883cf6d3095ea91f9b284:e9237daae16919ca840459396c6fc465
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/16961_stream.mpd?hdnts=exp=1706284441~acl=/drm/dash/*~id=137630933~hmac=89d03a0d4bb2132a1aa518a3558c48dd491ee78d812ddf580a086c040ad705cb
+https://hometv.web.id/nvchome/hBK3vdFLmB/indosiar/
 
 #EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="OChannel.id" tvg-logo="https://i.ibb.co/7g6xWyh/Moji-blue.png",MOJI HD
 http://iptvtree.net:8080/c4596f70/c3848d92/298550
