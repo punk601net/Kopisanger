@@ -178,7 +178,7 @@ https://cdnjkt4.transvision.co.id:1003/live/master/1/4028c6856c3db2cc016cd6df935
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvnid-best.aimiemah.workers.dev/
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be58644c5901/87b349f225fa4b0b839447d943a63b5f.jpg" group-title="Transvision",KompasTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be58644c5901/87b349f225fa4b0b839447d943a63b5f.jpg" group-title="TV-Nasional",KompasTV
 https://cdnjkt4.transvision.co.id:1003/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -236,6 +236,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="TV-Nasional" tvg-logo="https://www.visionplus.id/images/repository/989/49989-SNAPSHOT-m.png",Bandung TV
 https://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+#EXTINF:-1 group-title="TV-Nasional" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvri.png",TVRI Nasional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="TV-Nasional" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvriworld.png",TVRI World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="TV-Nasional" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
 
 ######################
 ######## ANAK ########
@@ -981,17 +993,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 ######## LPP TVRI ########
 ##########################
 
-#EXTINF:-1 group-title="TVRI" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvri.png",TVRI Nasional
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="TVRI" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvriworld.png",TVRI World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
-
-#EXTINF:-1 group-title="TVRI" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
 
 ########################
 ######## DAERAH ########
