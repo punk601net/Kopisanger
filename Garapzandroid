@@ -62,13 +62,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZSMnN9Ol5OFNv9PZaAXTCw", "kid":"Y2l0cmFkYW5nZHV0MDAwMA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/NIvaeo_vWUDEUd0eGVEsxYuMUpA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg" group-title="NASIONAL",Ai Citra Dangdut
-https://okegas.transvision.workers.dev/dassdvr/130/citradangdut/manifest.mpd
+https://okegas.kuntuk.workers.dev/dassdvr/130/citradangdut/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg" group-title="NASIONAL",Ai Citra Drama
-https://okegas.transvision.workers.dev/dassdvr/130/cdrama/manifest.mpd
+https://okegas.kuntuk.workers.dev/dassdvr/130/cdrama/manifest.mpd
 
 #EXTINF:0 tvg-id="CitraEntertainment.id" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/31hNNC8DYlvWojd9s5kk1eLcgnI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" group-title="NASIONAL", Ai CITRA ENTERTAINMENT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -96,18 +96,24 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/1TMD8nonXrRVhDaBUo7VQgJGkQc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="NASIONAL",A RTV
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/6_ilo1sVpgPuKNo0D1xeHwZNVw0=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="NASIONAL",A Indosiar
-https://bapak.natannafalah.workers.dev/https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#EXTINF:-1 channel-id="Horee" tvg-id="" tvg-logo="https://i.ibb.co.com/w7tbfWD/horee.png" group-title="NASIONAL" , A HOREE! 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
+
+#EXTINF:0 tvg-id="IndoiarIDFbHD" tvg-logo="https://thumbor.prod.vidiocdn.com/P0RrsX7aYn8TItEEBCqmmI8e5Yw=/480x268/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8250386/indonesia-vs-laos-asean-u16-boys-championship-27-juni-2024-427d5c.jpg" group-title="NASIONAL",A INDOSIAR 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="NASIONAL",A MojiTV
-https://okegas.transvision.workers.dev/dassdvr/134/ochannel/manifest.mpd
+https://okegas.kuntuk.workers.dev/dassdvr/134/ochannel/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/WL48ZBsxNGEncu7T5Bj0LuOmG2A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="NASIONAL",A Sctv
-https://bapak.natannafalah.workers.dev/https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+https://bapak.gobrut.workers.dev/https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -208,7 +214,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/stn_xzEBBDF0BDuxM9iNypkhsN4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-a88018.jpg",A TVONE SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
-https://bapak.natannafalah.workers.dev/https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+https://bapak.gobrut.workers.dev/https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://images.indihometv.com/tvposter/cctv4.png", CCTV 4 SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -332,7 +338,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/036/50036-SNAPSHOT-m.png", TRT WORLD HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
-https://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u
+https://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8
 
 ######################
 ######## ANAK ########
