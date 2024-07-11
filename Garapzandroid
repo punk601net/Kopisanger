@@ -10,6 +10,9 @@
 ######## NASIONAL  ########
 ###########################
 
+#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="RRINET" tvg-logo="https://www.rri.co.id/assets/v2/img/logo-rrinet.png" group-title="tes channel", RRI NET
+https://private-streaming.rri.go.id/memfs/ff303a23-f1db-4cb3-95f9-4ae7bef2a392.m3u8
+
 ```````` INDONESIA ````````
 #EXTINF:-1 group-logo="https://i.ibb.co/RyC0Q2J/Logo-TV-Group.png"
  
